@@ -41,7 +41,7 @@ An interactive canvas animation featuring hexagons that create beautiful ripple 
 
 1. **Clone or download this repository**
    ```
-   git clone [repository-url]
+   git clone https://github.com/fmurdeni/hexagon-animation-background
    ```
    Or simply download and extract the ZIP file.
 
